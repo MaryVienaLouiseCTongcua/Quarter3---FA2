@@ -1,1 +1,1 @@
-# Quarter3---FA2
+This FA, I used the skills and infromation from my past lessons to create a calculator which would compute addition, subtraction, multiplication, division, and remainder. I was then ablke to recall past skills for css and html to create the whole output. So far, what it does is act as a normal calculator.
